@@ -1,0 +1,17 @@
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\bin\Debug\netstandard2.0\MasterDetailDemo.deps.json
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\bin\Debug\netstandard2.0\MasterDetailDemo.dll
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\bin\Debug\netstandard2.0\MasterDetailDemo.pdb
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.csprojAssemblyReference.cache
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MenuDetail.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.csproj.CoreCompileInputs.cache
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.AssemblyInfoInputs.cache
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.AssemblyInfo.cs
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.dll
+C:\Users\vasco\Desktop\MasterDetail-Xamarin.Forms-master\MasterDetailDemo\MasterDetailDemo\MasterDetailDemo\obj\Debug\netstandard2.0\MasterDetailDemo.pdb
